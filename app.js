@@ -48,10 +48,10 @@ async function addCityToTable(city) {
   }
 }
 
-// ✅ Call this once at the beginning
+
 cities.forEach(city => addCityToTable(city));
 
-// ✅ Search functionality — still works
+
 async function checkWeather(city) {
   try {
     cityName.innerHTML = city;
