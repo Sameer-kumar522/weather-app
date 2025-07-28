@@ -22,7 +22,7 @@ A simple and interactive weather dashboard that shows real-time weather data for
 
 ## 🖥️ Live Preview
 
-
+👉 Click here to try the live demo
 
 ## 🔧 Setup Instructions
 
