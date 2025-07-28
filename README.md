@@ -22,7 +22,7 @@ A simple and interactive weather dashboard that shows real-time weather data for
 
 ## 🖥️ Live Preview
 
-👉 Click here to try the live demo
+👉 Click here to try the live demo[https://sameer-kumar522.github.io/weather-app/]
 
 ## 🔧 Setup Instructions
 
